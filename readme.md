@@ -13,4 +13,6 @@ Spend Bill Gates' Money
   `Bir üründen hiçbir tane alınmamışsa "Sell" butonu aktif olmamalıdır.`
   `Herhangi ürünün fiyatı, bakiyeden yüksek ise "Buy" butonu aktif olmamalıdır.`
   `Satın alınan ürünler ekranın en altında adetleri ve toplam bedelleri ile birlikte listelenmelidir.`
-  
+  Uygulama Resimleri
+  ---
+  `https://github.com/SerhatYaren09/SpendBillGates-Money/issues/1#issuecomment-926612227`
