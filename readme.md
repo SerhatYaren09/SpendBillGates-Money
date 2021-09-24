@@ -1,3 +1,7 @@
+#
+   Bir klon uygulama geliştirmeniz gerekiyor. Uygulama, Bill Gates'in $100,000,000,000 parasını hayali ürünlerle harcamak üzerine kurulu.
+  #
+  
 Spend Bill Gates' Money
 ---
  Gereksinimler
@@ -9,7 +13,4 @@ Spend Bill Gates' Money
   `Bir üründen hiçbir tane alınmamışsa "Sell" butonu aktif olmamalıdır.`
   `Herhangi ürünün fiyatı, bakiyeden yüksek ise "Buy" butonu aktif olmamalıdır.`
   `Satın alınan ürünler ekranın en altında adetleri ve toplam bedelleri ile birlikte listelenmelidir.`
-  #
-   Bir klon uygulama geliştirmeniz gerekiyor. Uygulama, Bill Gates'in $100,000,000,000 parasını hayali ürünlerle harcamak üzerine kurulu.
-  #
   
